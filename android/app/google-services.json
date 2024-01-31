@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474831192309",
+    "project_id": "auto-hiring-app-587b0",
+    "storage_bucket": "auto-hiring-app-587b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474831192309:android:35d776b812b058a43645bc",
+        "android_client_info": {
+          "package_name": "com.example.autohiringapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXk37a4cGPRTF_COO1tNMI4irhAsCeV2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
